@@ -1,1 +1,5 @@
 .vscode/
+/build/
+/dist/
+/skkdictutils.egg-info/
+/.eggs/
